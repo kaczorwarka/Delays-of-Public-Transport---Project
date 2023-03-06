@@ -14,7 +14,7 @@ This is a simply process communication project focused on learning some C# featu
 ## WHAT THIS PROJECT DOES :question:
 
 Project was created in two-person team to complete classes at the Military University of Technology.
-The project consists of two processes. the first one is the passenger process where the user can select the means of transport 
+The project consists of two processes. The first one is the passenger process where the user can select the means of transport 
 that he is interested in, the line number, etc. 
 The second process is the process of the transport system. After getting inforamtions from the user this procces calculate the delay of choosen tranpsort 
 including random delays and during the ride and send answer to passenger.
