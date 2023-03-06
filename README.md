@@ -20,7 +20,7 @@ The second process is the process of the transport system. After getting inforam
 including random delays and during the ride and send answer to passenger.
 The time is also random and cannot be choose by the user.
 In addition each mean of transport has diverent hours of work for example all buses rides from 6:00 AM to 12:00 PM.
-communication between two processes is done through files which are deleted by using IDisposable interface.
+Communication between two processes is done through files which are deleted by using IDisposable interface.
 
 ## TECHNOLOGIES :satellite:
 * .Net 6.0
